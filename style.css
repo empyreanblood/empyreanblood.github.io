@@ -8,6 +8,12 @@ body{
     text-align: center;
 }
 
+.card1{
+    text-align: center;
+    border: #09814A;
+    border-radius: 10px;
+}
+
 footer{
     text-align: center;
 }
