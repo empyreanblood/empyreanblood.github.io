@@ -1,10 +1,14 @@
 body{
     .url {cursor: url(MAIN.cur),default;}
     background-color: #121619;
+    color: #09814A;
 }
 
 .titlething{
     text-align: center;
-    color: #09814A;
+}
+
+footer{
+    text-align: center;
 }
 
