@@ -1,6 +1,8 @@
 body{
     .url {cursor: url(MAIN.cur),default;}
     background-color: powderblue;
+    text-align: center;
+    color:lightgreen;
 }
 
 
