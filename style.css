@@ -1,4 +1,5 @@
 body{
-    .url {cursor: url(MAIN.cur),auto;}
+    .url {cursor: url(MAIN.cur),default;}
     background-color: light gray;
 }
+
