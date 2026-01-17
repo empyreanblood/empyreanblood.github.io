@@ -1,8 +1,10 @@
 body{
     .url {cursor: url(MAIN.cur),default;}
     background-color: black;
+}
+
+.titlething{
     text-align: center;
     color:lightgreen;
 }
-
 
