@@ -10,6 +10,14 @@ body{
 
 .card1{
     text-align: center;
+    border-style: solid;
+    border: #09814A;
+    border-radius: 5px;
+}
+
+.card2{
+   text-align: left;
+    border-style: solid;
     border: #09814A;
     border-radius: 5px;
 }
@@ -22,4 +30,5 @@ display: flex;
 footer{
     text-align: center;
 }
+
 
